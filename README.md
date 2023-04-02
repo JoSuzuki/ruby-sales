@@ -25,3 +25,9 @@ This module is responsible for aggregating the products and printing a receipt.
 ### Main
 
 This isn't a class per se, but just a runner to orchestrate the calls for the other services.
+
+
+## Missing features
+
+- Dealing with float point approximations
+- Testing files `data_source.rb` and `main.rb`
